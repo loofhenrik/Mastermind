@@ -31,7 +31,7 @@ table {
   width: 50%;
   float: left;
   padding: 20px;
-  margin: 20px 0 140px 20px;
+  margin: 20px 0 140px 10%;
   background-color: white; }
   #gamefield td {
     border: 10px solid grey;
